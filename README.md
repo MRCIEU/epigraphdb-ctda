@@ -44,7 +44,7 @@ devtools::install_github("MRCIEU/TwoSampleMR@0.3.2")
 
 For more information on how to run the MR analysis, please check out R script `MR-script-covid19.R`
 
-For more information on how to run the multi-trait colocalization analysis, please check out R script `MR-script-covid19.R`
+For more information on how to run the multi-trait colocalization analysis, please check out R script `MOLOC-script-v1.R`
 
 
 ## EpiGraphDB pQTL PheWAS browser 
