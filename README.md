@@ -1,4 +1,4 @@
-# EpiGraphDB pQTL MR project repository 
+# EpiGraphDB CTDA MR project repository 
 This is the GitHub repository to provide all information, news and updates of the EpiGraphDB COVID-19 target-disease atlas project, which is a phenome-wide Mendelian randomization study of 353 targets on COVID-19 and other diseases. 
 
 <a href="http://epigraphdb.org/pqtl/"><img src="https://epigraphdb.org/img/epigraphdb-logo.ed38e02a.svg" alt="" height="60" style="padding:10px"/></a> <span class="pull-right">&nbsp;&nbsp;&nbsp; <a href="http://www.bris.ac.uk"><img src="https://epigraphdb.org/img/uob.16744ca9.svg" alt="" height="60" style="padding:10px"/></a>&nbsp;&nbsp;&nbsp; <a href="http://www.bris.ac.uk/ieu"><img src="http://www.bristol.ac.uk/media-library/sites/integrative-epidemiology/images/mrc-ieu-logo.png" alt="" height="60" style="padding:10px"/></a> </span>
@@ -52,7 +52,7 @@ The [EpiGraphDB Covid-19 target-disease atlas](https://epigraphdb.org/ctda/) cur
 
 Please cite the pQTL MR analysis as
 
-> Phenome-wide Mendelian randomization mapping the influence of the plasma proteome on complex diseases
+> Multi-omics study revealing putative drug targets of COVID-19 severity and other viral infection diseases
 
 > Jie Zheng, Yuemiao Zhang, Yi Liu, Denis Baird, Mohd Anisul Karim, Maya Ghoussaini, Jeremy Schwartzentruber, Ian Dunham, Benjamin Elsworth, Katherine Roberts, Hannah Compton, Felix Miller-Molloy, Xingzi Liu, Lin Wang, Hong Zhang, George Davey Smith, Tom R Gaunt. Multi-omics study revealing putative drug targets of COVID-19 severity and other viral infection diseases. MedRxiv. 
 
