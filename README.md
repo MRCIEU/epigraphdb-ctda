@@ -42,7 +42,10 @@ devtools::install_github("MRCIEU/TwoSampleMR@0.3.2")
 
 `epigraphdb-pqtl` provides a simple and intuitive way to run pQTL MR analysis using the "TwoSampleMR" R package
 
-For more information on how to run the MR analysis, please check out R script `MR-xQTL-covid-19-script.R`
+For more information on how to run the MR analysis, please check out R script `MR-script-covid19.R`
+
+For more information on how to run the multi-trait colocalization analysis, please check out R script `MR-script-covid19.R`
+
 
 ## EpiGraphDB pQTL PheWAS browser 
 
